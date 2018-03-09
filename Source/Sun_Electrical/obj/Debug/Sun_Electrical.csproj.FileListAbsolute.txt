@@ -1,0 +1,213 @@
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csprojResolveAssemblyReference.cache
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_Main.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.Properties.Resources.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewInvoice.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.GenerateResource.Cache
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.pdb
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Help.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewItem.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewReturn.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Users.resources
+H:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Report.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.pdb
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Shared.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\FlashControlV71.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\ShockwaveFlashObjects.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\bin\Debug\stdole.dll
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmUserUpdate.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmFinalBill.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmLogin.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_AdminRegister.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_Main.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.Properties.Resources.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Help.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewItem.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewInvoice.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewReturn.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Report.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_ViewInvoice.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_FrogetPass.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Users.resources
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.GenerateResource.Cache
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb
+D:\Enjoy my Lfie\My Kindom\Software Development\Sun Electrical\Sun Electrical\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csprojResolveAssemblyReference.cache
+F:\System Setup Re\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+F:\System Setup Re\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+F:\System Setup Re\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.pdb
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Shared.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\FlashControlV71.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\ShockwaveFlashObjects.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\stdole.dll
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmUserUpdate.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmFinalBill.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmLogin.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_AdminRegister.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_Main.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.Properties.Resources.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Help.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewItem.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewInvoice.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewReturn.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Report.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_ViewInvoice.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_FrogetPass.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Users.resources
+F:\System Setup Re\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.GenerateResource.Cache
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.pdb
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Shared.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\FlashControlV71.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\ShockwaveFlashObjects.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\bin\Debug\stdole.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmUserUpdate.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmFinalBill.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmLogin.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_AdminRegister.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_Main.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.Properties.Resources.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Help.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewItem.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewInvoice.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewReturn.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Report.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_ViewInvoice.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_FrogetPass.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Users.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.GenerateResource.Cache
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csprojResolveAssemblyReference.cache
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.pdb
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Shared.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\FlashControlV71.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\ShockwaveFlashObjects.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\bin\Debug\stdole.dll
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmUserUpdate.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmFinalBill.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmLogin.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_AdminRegister.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_Main.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.Properties.Resources.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Help.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewItem.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewInvoice.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewReturn.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Report.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_ViewInvoice.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_FrogetPass.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Users.resources
+F:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\SETUP 02\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.GenerateResource.Cache
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe.config
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.exe
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\Sun_Electrical.pdb
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\FlashControlV71.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\ShockwaveFlashObjects.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\bin\Debug\stdole.dll
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csprojResolveAssemblyReference.cache
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmUserUpdate.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmFinalBill.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frmLogin.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_AdminRegister.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_Main.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.Properties.Resources.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Help.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewItem.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewInvoice.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_NewReturn.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Report.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_ViewInvoice.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.frm_FrogetPass.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.uc_Users.resources
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.GenerateResource.Cache
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.csproj.CoreCompileInputs.cache
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.exe
+E:\Enjoy my Lfie\My Kindom\Software Development\SUN ELECTRICAL\Sun Electrical System - RELEASE ONE\Sun Electrical final - 02 (RELEASE)\Sun_Electrical\Sun_Electrical\obj\Debug\Sun_Electrical.pdb

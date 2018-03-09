@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78183ED3-5EFC-4644-A374-B6F52F84C5A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sun_Electrical</RootNamespace>
+    <AssemblyName>Sun_Electrical</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionDB.cs" />
+    <Compile Include="CrystalReport1_Bill.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1_Bill.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Users\frmUserUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmUserUpdate.Designer.cs">
+      <DependentUpon>frmUserUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinalBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinalBill.Designer.cs">
+      <DependentUpon>frmFinalBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\Invoice.cs" />
+    <Compile Include="Inventory\item.cs" />
+    <Compile Include="Users\user.cs" />
+    <Compile Include="Users\frm_FrogetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frm_FrogetPass.Designer.cs">
+      <DependentUpon>frm_FrogetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frm_AdminRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frm_AdminRegister.Designer.cs">
+      <DependentUpon>frm_AdminRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Help\uc_Help.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Help\uc_Help.Designer.cs">
+      <DependentUpon>uc_Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory\uc_NewItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inventory\uc_NewItem.Designer.cs">
+      <DependentUpon>uc_NewItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\uc_NewInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Invoice\uc_NewInvoice.Designer.cs">
+      <DependentUpon>uc_NewInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Return\uc_NewReturn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Return\uc_NewReturn.Designer.cs">
+      <DependentUpon>uc_NewReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\uc_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\uc_Report.Designer.cs">
+      <DependentUpon>uc_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice\frm_ViewInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice\frm_ViewInvoice.Designer.cs">
+      <DependentUpon>frm_ViewInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\uc_Users.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\uc_Users.Designer.cs">
+      <DependentUpon>uc_Users.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CrystalReport1_Bill.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1_Bill.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmUserUpdate.resx">
+      <DependentUpon>frmUserUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinalBill.resx">
+      <DependentUpon>frmFinalBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frm_AdminRegister.resx">
+      <DependentUpon>frm_AdminRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Help\uc_Help.resx">
+      <DependentUpon>uc_Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory\uc_NewItem.resx">
+      <DependentUpon>uc_NewItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice\uc_NewInvoice.resx">
+      <DependentUpon>uc_NewInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Return\uc_NewReturn.resx">
+      <DependentUpon>uc_NewReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\uc_Report.resx">
+      <DependentUpon>uc_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice\frm_ViewInvoice.resx">
+      <DependentUpon>frm_ViewInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frm_FrogetPass.resx">
+      <DependentUpon>frm_FrogetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\uc_Users.resx">
+      <DependentUpon>uc_Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HELP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hel click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventory click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh 17x17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sell item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\successfully.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not successfully.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-0-02-06-03482f8527e44b58fd2fac11014ef9d1cc29f616618a4acf4227f8b82b2a58e6-V.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginPage_LoginIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Graphicloads-100-Flat-2-Ok.ico" />
+    <Content Include="icon2.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
